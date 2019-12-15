@@ -8,12 +8,3 @@
 #     end
 #   end
 # end
-
-def prime?(num)
-  num.prime?
-    
-
-
-
-
-end
