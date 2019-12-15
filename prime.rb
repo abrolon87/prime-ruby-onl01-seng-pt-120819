@@ -10,7 +10,7 @@
 # end
 
 def prime?(num)
-  if Prime.prime?(num)
+  Prime.prime?(num)
     return true
   else
     return false
