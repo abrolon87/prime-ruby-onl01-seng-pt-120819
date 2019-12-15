@@ -10,7 +10,10 @@
 # end
 
 def prime?(num)
-  Prime.prime?(num)
+  if num.prime?
+    return true
+  else
+    return false
     
 
 
