@@ -11,8 +11,8 @@
 
 def prime?(num)
   Prime.prime?(num)
-    return true
-
     
+
+
 
 end
